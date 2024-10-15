@@ -1,1 +1,9 @@
-Created test1.txt file
+git clone
+
+git add filename
+
+git commit -m ""
+
+
+
+
