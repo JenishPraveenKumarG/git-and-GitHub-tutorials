@@ -25,3 +25,6 @@ git branch - to see the branches
 
 # to switch branches
 git checkout branchname
+
+# The use of branch is multiple people works on a single project and atlast can be merges
+git merge
