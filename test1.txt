@@ -1,11 +1,16 @@
 git clone
 
+# to add a new file or to change existing file
 git add filename
 
 git status
 
+# whatever the changes we do we need to commit that
 git commit -m ""
 
-
+# To see the changes in github we must use this code
 git push origin main
+
+# To get the changes we have done in github like created a file in github
+git pull
 
