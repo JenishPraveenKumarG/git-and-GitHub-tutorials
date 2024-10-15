@@ -14,3 +14,14 @@ git push origin main
 # To get the changes we have done in github like created a file in github
 git pull
 
+# to create new repo and add existing files
+git init
+
+git remote add origin
+
+git push origin main
+
+git branch - to see the branches
+
+# to switch branches
+git checkout branchname
