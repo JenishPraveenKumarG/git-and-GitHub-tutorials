@@ -2,8 +2,10 @@ git clone
 
 git add filename
 
+git status
+
 git commit -m ""
 
 
-
+git push origin main
 
